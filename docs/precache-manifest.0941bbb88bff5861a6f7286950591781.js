@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4211c47a863699938d5a9b1297ed0dc2",
+    "revision": "2c763056bcbb3dded18c2a1ffb5c453d",
     "url": "https://weihung.github.io/dice_demo2/index.html"
   },
   {
-    "revision": "6005ae410748f995741b",
+    "revision": "dbc4bbb4fe4fad06eb4c",
     "url": "https://weihung.github.io/dice_demo2/static/css/main.ef357fe5.chunk.css"
   },
   {
-    "revision": "bf00958e951206f6b52d",
-    "url": "https://weihung.github.io/dice_demo2/static/js/2.cf3eefd6.chunk.js"
+    "revision": "a052802cd96a6e00396c",
+    "url": "https://weihung.github.io/dice_demo2/static/js/2.d990b366.chunk.js"
   },
   {
-    "revision": "6005ae410748f995741b",
-    "url": "https://weihung.github.io/dice_demo2/static/js/main.8ee3d49a.chunk.js"
+    "revision": "dbc4bbb4fe4fad06eb4c",
+    "url": "https://weihung.github.io/dice_demo2/static/js/main.6f3eb33f.chunk.js"
   },
   {
     "revision": "6c37938b1e58c76a12ca",
