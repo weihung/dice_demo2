@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://weihung.github.io/dice_demo2/static/css/main.ef357fe5.chunk.css",
-    "main.js": "https://weihung.github.io/dice_demo2/static/js/main.75685768.chunk.js",
-    "main.js.map": "https://weihung.github.io/dice_demo2/static/js/main.75685768.chunk.js.map",
+    "main.js": "https://weihung.github.io/dice_demo2/static/js/main.a19373fb.chunk.js",
+    "main.js.map": "https://weihung.github.io/dice_demo2/static/js/main.a19373fb.chunk.js.map",
     "runtime-main.js": "https://weihung.github.io/dice_demo2/static/js/runtime-main.39820054.js",
     "runtime-main.js.map": "https://weihung.github.io/dice_demo2/static/js/runtime-main.39820054.js.map",
     "static/js/2.5948ce1c.chunk.js": "https://weihung.github.io/dice_demo2/static/js/2.5948ce1c.chunk.js",
     "static/js/2.5948ce1c.chunk.js.map": "https://weihung.github.io/dice_demo2/static/js/2.5948ce1c.chunk.js.map",
     "index.html": "https://weihung.github.io/dice_demo2/index.html",
-    "precache-manifest.1140a94bb1c292192b3956bfcea839d9.js": "https://weihung.github.io/dice_demo2/precache-manifest.1140a94bb1c292192b3956bfcea839d9.js",
+    "precache-manifest.8e2929b3a7bf74b1b925fc3672cf0e6b.js": "https://weihung.github.io/dice_demo2/precache-manifest.8e2929b3a7bf74b1b925fc3672cf0e6b.js",
     "service-worker.js": "https://weihung.github.io/dice_demo2/service-worker.js",
     "static/css/main.ef357fe5.chunk.css.map": "https://weihung.github.io/dice_demo2/static/css/main.ef357fe5.chunk.css.map",
     "static/media/king.png": "https://weihung.github.io/dice_demo2/static/media/king.e75004fd.png",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.39820054.js",
     "static/js/2.5948ce1c.chunk.js",
     "static/css/main.ef357fe5.chunk.css",
-    "static/js/main.75685768.chunk.js"
+    "static/js/main.a19373fb.chunk.js"
   ]
 }
