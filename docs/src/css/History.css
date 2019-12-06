@@ -1,0 +1,63 @@
+.History {
+  display: grid;
+}
+
+.TableHistory {
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: rgb(230, 219, 219);
+  border: 0;
+  border-spacing: 0;
+}
+
+.TableHistory tbody {
+  margin: auto;
+  display: table-header-group;
+}
+
+.TableHistory td {
+  height: 25px;
+} 
+
+.TableHistory th {
+  background-color: #383c44;
+  padding: 5px;
+}
+
+.SmallDice {
+  margin: auto;
+}
+
+.History1 td{
+  padding: 10px;
+  background-color: #181c24;
+}
+
+.History1 td:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.History1 td:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.History0 td {
+  padding: 10px;
+  background-color: #383c44;
+}
+
+.History0 td:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.History0 td:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

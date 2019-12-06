@@ -1,0 +1,13 @@
+.Dice {
+  width: 15px;
+  height: 15px;
+}
+
+.BigDice {
+  margin: 20px;
+}
+
+.SelectDice {
+  display: grid;
+  margin: auto;
+}

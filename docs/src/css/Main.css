@@ -1,0 +1,110 @@
+.container {
+  display: flex;
+}
+
+.div1 {
+  width: 100%;
+  height: 90vh;
+  display: inline-flexbox;
+  background: #8bbed6;
+  color: black;
+  font-size: calc(10px + 2vmin);
+}
+
+.div21 {
+  padding-top: 30px;
+  padding-left: 80px;
+  display: flex;
+}
+
+.div22 {
+  margin: 10;
+  flex: 50%;
+  text-align: center;
+  display: flex;
+}
+
+.div31 {
+  flex: 45%;
+}
+
+ .div32 {
+  flex: 10%;
+  margin: auto;
+} 
+
+.div33 {
+  flex: 45%;
+  margin: auto;
+}
+
+.GameLogo {
+  margin: auto;
+  display: grid;
+}
+
+.Balance {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.BetTimes {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Chance{
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  margin-top:30px;
+  width: 20vmin;
+  height: 10vmin;
+  border-radius: 10px;
+}
+
+.Odds {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  width: 20vmin;
+  height: 10vmin;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 480px){
+  /* .container {
+    flex-wrap: wrap; 
+  } */
+  .div21 {
+    flex: 100%;
+    order: 1;
+    display: inline-block;
+  }
+
+  .div22 {
+    margin: 10;
+    flex: 100%;
+    order:2;
+  }
+
+  .div31 {
+    flex: 100%;
+    order:1;
+  }
+
+  .div32 {
+    flex: 100%;
+    order:2;
+  }
+
+  .div33 {
+    flex: 100%;
+    order:3;
+  }
+
+  .div1 {
+    display: inline-block;
+  }
+}

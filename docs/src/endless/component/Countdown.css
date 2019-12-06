@@ -1,0 +1,10 @@
+.Countdown{
+  display: grid;
+  height: inherit;
+}
+
+.Countdown-Text{
+  display: grid;
+  margin: auto;
+  font-size: 50px;
+}
