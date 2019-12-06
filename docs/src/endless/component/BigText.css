@@ -1,9 +1,0 @@
-.BigText{
-  display: grid;
-  height: inherit;
-}
-
-.BigText-Text{
-  margin: auto;
-  font-size: 50px;
-}
