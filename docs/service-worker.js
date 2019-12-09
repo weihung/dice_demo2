@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://weihung.github.io/dice_demo2/precache-manifest.da02832ef11c473d817312eae7bddf9e.js"
+  "https://weihung.github.io/dice_demo2/precache-manifest.d086b3cccb0bc6db5e08dcd7c7edffd7.js"
 );
 
 self.addEventListener('message', (event) => {
