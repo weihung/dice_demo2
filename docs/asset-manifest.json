@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://weihung.github.io/dice_demo2/static/css/main.bd133f5e.chunk.css",
-    "main.js": "https://weihung.github.io/dice_demo2/static/js/main.2d6cdca9.chunk.js",
-    "main.js.map": "https://weihung.github.io/dice_demo2/static/js/main.2d6cdca9.chunk.js.map",
+    "main.js": "https://weihung.github.io/dice_demo2/static/js/main.032417bc.chunk.js",
+    "main.js.map": "https://weihung.github.io/dice_demo2/static/js/main.032417bc.chunk.js.map",
     "runtime-main.js": "https://weihung.github.io/dice_demo2/static/js/runtime-main.39820054.js",
     "runtime-main.js.map": "https://weihung.github.io/dice_demo2/static/js/runtime-main.39820054.js.map",
     "static/css/2.79392781.chunk.css": "https://weihung.github.io/dice_demo2/static/css/2.79392781.chunk.css",
-    "static/js/2.b30e081b.chunk.js": "https://weihung.github.io/dice_demo2/static/js/2.b30e081b.chunk.js",
-    "static/js/2.b30e081b.chunk.js.map": "https://weihung.github.io/dice_demo2/static/js/2.b30e081b.chunk.js.map",
+    "static/js/2.af6d8a69.chunk.js": "https://weihung.github.io/dice_demo2/static/js/2.af6d8a69.chunk.js",
+    "static/js/2.af6d8a69.chunk.js.map": "https://weihung.github.io/dice_demo2/static/js/2.af6d8a69.chunk.js.map",
     "index.html": "https://weihung.github.io/dice_demo2/index.html",
-    "precache-manifest.95c166cd15c4acbdf31caffc77900f02.js": "https://weihung.github.io/dice_demo2/precache-manifest.95c166cd15c4acbdf31caffc77900f02.js",
+    "precache-manifest.f74c38c479ca8a97fd96ec36c508ea0e.js": "https://weihung.github.io/dice_demo2/precache-manifest.f74c38c479ca8a97fd96ec36c508ea0e.js",
     "service-worker.js": "https://weihung.github.io/dice_demo2/service-worker.js",
     "static/css/2.79392781.chunk.css.map": "https://weihung.github.io/dice_demo2/static/css/2.79392781.chunk.css.map",
     "static/css/main.bd133f5e.chunk.css.map": "https://weihung.github.io/dice_demo2/static/css/main.bd133f5e.chunk.css.map",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.39820054.js",
     "static/css/2.79392781.chunk.css",
-    "static/js/2.b30e081b.chunk.js",
+    "static/js/2.af6d8a69.chunk.js",
     "static/css/main.bd133f5e.chunk.css",
-    "static/js/main.2d6cdca9.chunk.js"
+    "static/js/main.032417bc.chunk.js"
   ]
 }
